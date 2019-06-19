@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 31182a1314772654a9443760befe0b0f
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 37a190071440ed04bb1c502d65c583ee
+  - enabled: 1
+    path: Assets/Scenes/Nivel 1.unity
+    guid: b85834ed522718f45a1570eef5e7fcb1
+  - enabled: 1
+    path: Assets/Scenes/Nivel 2.unity
+    guid: 3d03f92e997284240b53f7e2bd981214
+  - enabled: 1
+    path: Assets/Scenes/Nivel 3.unity
+    guid: aa9028a6dc4134d47bbeac1d1c843d37
+  - enabled: 1
+    path: Assets/Scenes/Nivel 4.unity
+    guid: d51f132ad2839cc428904461e2f54eb3
+  - enabled: 1
+    path: Assets/Scenes/Nivel 5.unity
+    guid: 2eb4c25f2054c6e47b1a178c83f9de27
+  - enabled: 1
+    path: Assets/Scenes/Nivel 6.unity
+    guid: ce866ad6b3c6ada4aa1f5adcb9f3031d
+  - enabled: 1
+    path: Assets/Scenes/Game Over.unity
+    guid: c7319621dce111d4cadcca4153caa287
+  - enabled: 1
+    path: Assets/Scenes/Victoria.unity
+    guid: fe9a3c8ab6ced474ead8d831176a5858
+  m_configObjects: {}
